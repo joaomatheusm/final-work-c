@@ -1,6 +1,6 @@
 [codigo-e-print-pdf.pdf](https://github.com/user-attachments/files/15744086/codigo-e-print-pdf.pdf)
 
-
+![image](https://github.com/joaomatheusm/final-work-c/assets/138176279/e8229dab-cc20-4e8c-b7d7-b81dff55d0d8)
 ![ex001](https://github.com/joaomatheusm/final-work-c/assets/138176279/e96e6e0a-3502-40ec-9867-85b4df6eb012)
 <br>
 ![ex002](https://github.com/joaomatheusm/final-work-c/assets/138176279/73b7cdec-3c7a-4ba8-8e45-238992a3e87b)
