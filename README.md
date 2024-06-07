@@ -1,5 +1,6 @@
 [codigo-e-print-pdf.pdf](https://github.com/user-attachments/files/15744086/codigo-e-print-pdf.pdf)
 
+### Exercício 1
 ![image](https://github.com/joaomatheusm/final-work-c/assets/138176279/e8229dab-cc20-4e8c-b7d7-b81dff55d0d8)
 <br>
 ![ex001](https://github.com/joaomatheusm/final-work-c/assets/138176279/e96e6e0a-3502-40ec-9867-85b4df6eb012)
