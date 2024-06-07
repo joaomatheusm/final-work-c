@@ -2,6 +2,7 @@
 
 
 ![ex001](https://github.com/joaomatheusm/final-work-c/assets/138176279/e96e6e0a-3502-40ec-9867-85b4df6eb012)
+<br>
 ![ex002](https://github.com/joaomatheusm/final-work-c/assets/138176279/73b7cdec-3c7a-4ba8-8e45-238992a3e87b)
 ![ex003](https://github.com/joaomatheusm/final-work-c/assets/138176279/f36cf02a-6188-4d3d-b915-0d8f631e980f)
 ![ex004](https://github.com/joaomatheusm/final-work-c/assets/138176279/f2ad8598-a9fa-4eb4-8901-b73136512f20)
